@@ -1,7 +1,7 @@
 # php-ffs for PHP7
 
 > auth: wikimedia organization 
-> PHP7_adapter: Vikin
+> PHP7_adapter: viest
 
 This is a PHP extension for fast string search and replace. It is used by 
 StringUtils.php. It supports multiple search terms. We use it as a
